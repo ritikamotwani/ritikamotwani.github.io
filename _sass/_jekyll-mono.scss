@@ -173,8 +173,8 @@ button.button-primary:focus {
 }
 
 .ch-grid li {
-	width: 220px;
-	height: 220px;
+	width: 420px;
+	height: 420px;
 	display: inline-block;	
 }
 
@@ -190,8 +190,8 @@ button.button-primary:focus {
 .ch-info-wrap, 
 .ch-info{
 	position: absolute;
-	width: 180px;
-	height: 180px;
+	width: 380px;
+	height: 380px;
 	border-radius: 50%;
 }
 
@@ -240,6 +240,9 @@ button.button-primary:focus {
 
 .ch-img-1 { 
 	background-image: url(#{$avatar});
+	background-size:     cover;                      /* <------ */
+
+
 }
 
 .ch-info h3 {
@@ -248,7 +251,7 @@ button.button-primary:focus {
 	letter-spacing: 2px;
 	font-size: 18px;
 	margin: 0 15px;
-	padding: 40px 0 0 0;
+	padding: 180px 0 0 0;
 	height: 80px;
 	font-family: 'Open Sans', Arial, sans-serif;
 	text-shadow: 
