@@ -4,9 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
+### [Eventyay - Open Event Frontend](https://github.com/fossasia/ritikamotwani)
+Open Event Frontend.
 ***
 
 ### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
