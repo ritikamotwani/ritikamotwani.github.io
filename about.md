@@ -57,7 +57,24 @@ Founder, ABC Organisation
 </ul>
 
 
-<div id="tuna"></div>
+<div id="tuna" class="scrolling"></div>
+<script>
+var animationStarted = false;
+window.onscroll = function (e) {
+if(!animationStarted){
+document.getElementById("tuna").classList.remove('scrolling');
+setTimeout(function(){animationStarted=false},4000);
+
+}
+isScrolling=true;
+
+console.log('hello');
+setTimeout(function(){
+document.getElementById("tuna").classList.add('scrolling');
+animationStarted=true
+}, 100);
+}
+</script>
 
 ## Skills
 
