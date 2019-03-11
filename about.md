@@ -87,7 +87,7 @@ var animationStarted = false;
 window.onscroll = function (e) {
 if(!animationStarted){
 document.getElementById("tuna").classList.remove('scrolling');
-setTimeout(function(){animationStarted=false},4000);
+setTimeout(function(){animationStarted=false},1000);
 
 }
 isScrolling=true;
@@ -100,15 +100,6 @@ animationStarted=true
 }
 </script>
 
-
-## Skills
-
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
 
 ## Achievements
 
