@@ -76,6 +76,7 @@ animationStarted=true
 }
 </script>
 
+
 ## Skills
 
 * **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
@@ -84,7 +85,8 @@ animationStarted=true
 * **Skill 4** - `Skill` / `Skill` / `Skill` 
 * **Skill 5** - `Skill`
 * **Skill 6** - `Skill` / `Skill` 
-    
+
+
     
 ## Achievements
 
