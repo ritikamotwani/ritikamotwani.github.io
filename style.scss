@@ -634,6 +634,12 @@ animation: name duration timing-function delay iteration-count direction fill-mo
   100% {background-position: -120px -300px; }
 }
 
+// Hovering on achieve
+.underline--magical {
+  &:hover {
+    border: 2px dashed #FFC0CB;
+  }
+}
 
 @import "highlights";
 @import "jekyll-mono";

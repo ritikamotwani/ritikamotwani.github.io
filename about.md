@@ -6,17 +6,12 @@ title: About
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
 
+&nbsp;
+&nbsp;
 
-## Education
-
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-
-## Roles
-
-Founder, ABC Organisation
-
-
+## Education and Experience
+<br/>
+<br/>
 
 <ul class="timeline">
   <!-- Item 1 -->
@@ -24,10 +19,14 @@ Founder, ABC Organisation
     <div class="direction-r">
       <div class="flag-wrapper">
         <span class="hexa"></span>
-        <span class="flag">Lorem ipsum.</span>
-        <span class="time-wrapper"><span class="time">Feb 2015</span></span>
+        <span class="flag"><a href="https://iiita.ac.in" target="_blank">IIIT Allahabad, India</a></span>
+        <span class="time-wrapper"><span class="time">Student</span></span>
       </div>
-      <div class="desc">Lorem ipsum Nisi labore aute do aute culpa magna nulla voluptate exercitation deserunt proident.</div>
+      <div class="desc">
+        Bachelors of Technology in Information Technology.<br/>
+        CGPA (After 7 semesters): 8.73/10<br/>
+        Will graduate in July 2019
+      </div>
     </div>
   </li>
 
@@ -36,22 +35,47 @@ Founder, ABC Organisation
     <div class="direction-l">
       <div class="flag-wrapper">
         <span class="hexa"></span>
-        <span class="flag">Lorem ipsum Anim.</span>
-        <span class="time-wrapper"><span class="time">Dec 2014</span></span>
+        <span class="flag"><a href="https://www.ntu.edu.sg/Pages/home.aspx" target="_blank">NTU, Singapore</a></span>
+        <span class="time-wrapper"><span class="time">Research Assistant</span></span>
       </div>
-      <div class="desc">Lorem ipsum In ut sit in dolor nisi ex magna eu anim anim tempor dolore aliquip enim cupidatat laborum dolore.</div>
+      <div class="desc">
+        Working on the Verbal part of the lie detection software. <br />
+        <i>Objective</i>: To classify a person as deceptive/truthful by performing an automated linguistic analysis on the language used by them (when questioned about a transgression)
+      </div>
+    </div>
+  </li>
+  <li>
+    <div class="direction-r">
+      <div class="flag-wrapper">
+        <span class="hexa"></span>
+        <span class="flag"><a href="https://summerofcode.withgoogle.com/" target="_blank">Google Summer of Code</a></span>
+        <span class="time-wrapper"><span class="time">Developer</span></span>
+      </div>
+      <div class="desc">Worked on the front-end part of the project Open Event of FOSSASIA. The Open Event Project offers event managers a platform to help users organize events including concerts, summits and regular meetups. The components support organizers through all stages from event planning to publishing, marketing and ticket sales. Automated web and mobile apps help attendees to get information easily.<br />
+        Stack Used: EmberJS, Semantic UI
+      </div>
     </div>
   </li>
 
   <!-- Item 3 -->
   <li>
+    <div class="direction-l">
+      <div class="flag-wrapper">
+        <span class="hexa"></span>
+        <span class="flag"><a href="http://fossasia.org/" target="_blank">FOSSASIA</a></span>
+        <span class="time-wrapper"><span class="time">Frontend Developer</span></span>
+      </div>
+      <div class="desc">Continued working on the open event project of FOSSASIA.</div>
+    </div>
+  </li>
+  <li>
     <div class="direction-r">
       <div class="flag-wrapper">
         <span class="hexa"></span>
-        <span class="flag">Lorem Occaecat.</span>
-        <span class="time-wrapper"><span class="time">July 2014</span></span>
+        <span class="flag"><a href="https://rcom.co.in/" target="_blank">Reliance Communication</a></span>
+        <span class="time-wrapper"><span class="time">Tech Intern</span></span>
       </div>
-      <div class="desc">Lorem ipsum Minim labore Ut cupidatat quis qui deserunt proident fugiat pariatur cillum cupidatat reprehenderit sit id dolor consectetur ut.</div>
+      <div class="desc"></div>
     </div>
   </li>
 </ul>
@@ -86,26 +110,13 @@ animationStarted=true
 * **Skill 5** - `Skill`
 * **Skill 6** - `Skill` / `Skill` 
 
-
-    
 ## Achievements
 
 
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
+* <a href="https://codein.withgoogle.com/" target="_blank"><span class="underline--magical">Google Code-In'18</span></a> Mentor
+* <a href="https://2017.codeheat.org/" target="_blank"><span class="underline--magical">Codeheat'17</span></a> finalist
+* <a href="http://ghcindia.anitab.org/" target="_blank"><span class="underline--magical">Grace Hopper Celebration India</span></a>, Student Scholar
+* Presented my paper on <a href="https://ieeexplore.ieee.org/abstract/document/8467230" target="_blank"><span class="underline--magical">"Learning the Goal Seeking Behaviour for Mobile Robots"</span></a> at <a href="http://www.acirs.org/" target="_blank"><span class="underline--magical">ACIRS'18</span></a> in Singapore.
 
 
 ## Contact me
