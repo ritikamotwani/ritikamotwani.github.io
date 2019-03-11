@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-
+permalink: /about/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu d
     <div class="direction-r">
       <div class="flag-wrapper">
         <span class="hexa"></span>
-        <span class="flag"><a href="https://iiita.ac.in" target="_blank">IIIT Allahabad, India</a></span>
+        <span class="flag"><a href="https://iiita.ac.in" target="_blank" class="effect-underline">IIIT Allahabad, India</a></span>
         <span class="time-wrapper"><span class="time">Student</span></span>
       </div>
       <div class="desc">
@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu d
     <div class="direction-l">
       <div class="flag-wrapper">
         <span class="hexa"></span>
-        <span class="flag"><a href="https://www.ntu.edu.sg/Pages/home.aspx" target="_blank">NTU, Singapore</a></span>
+        <span class="flag"><a href="https://www.ntu.edu.sg/Pages/home.aspx" target="_blank" class="effect-underline">NTU, Singapore</a></span>
         <span class="time-wrapper"><span class="time">Research Assistant</span></span>
       </div>
       <div class="desc">
@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu d
     <div class="direction-r">
       <div class="flag-wrapper">
         <span class="hexa"></span>
-        <span class="flag"><a href="https://summerofcode.withgoogle.com/" target="_blank">Google Summer of Code</a></span>
+        <span class="flag"><a href="https://summerofcode.withgoogle.com/" target="_blank" class="effect-underline">Google Summer of Code</a></span>
         <span class="time-wrapper"><span class="time">Developer</span></span>
       </div>
       <div class="desc">Worked on the front-end part of the project Open Event of FOSSASIA. The Open Event Project offers event managers a platform to help users organize events including concerts, summits and regular meetups. The components support organizers through all stages from event planning to publishing, marketing and ticket sales. Automated web and mobile apps help attendees to get information easily.<br />
@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu d
     <div class="direction-l">
       <div class="flag-wrapper">
         <span class="hexa"></span>
-        <span class="flag"><a href="http://fossasia.org/" target="_blank">FOSSASIA</a></span>
+        <span class="flag"><a href="http://fossasia.org/" target="_blank" class="effect-underline">FOSSASIA</a></span>
         <span class="time-wrapper"><span class="time">Frontend Developer</span></span>
       </div>
       <div class="desc">Continued working on the open event project of FOSSASIA.</div>
@@ -72,10 +72,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu d
     <div class="direction-r">
       <div class="flag-wrapper">
         <span class="hexa"></span>
-        <span class="flag"><a href="https://rcom.co.in/" target="_blank">Reliance Communication</a></span>
+        <span class="flag"><a href="https://rcom.co.in/" target="_blank" class="effect-underline">Reliance Communication</a></span>
         <span class="time-wrapper"><span class="time">Tech Intern</span></span>
       </div>
-      <div class="desc"></div>
     </div>
   </li>
 </ul>
@@ -87,7 +86,7 @@ var animationStarted = false;
 window.onscroll = function (e) {
 if(!animationStarted){
 document.getElementById("tuna").classList.remove('scrolling');
-setTimeout(function(){animationStarted=false},1000);
+setTimeout(function(){animationStarted=false},2000);
 
 }
 isScrolling=true;
