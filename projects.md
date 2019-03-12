@@ -11,7 +11,7 @@ permalink: /projects/
       <p>The Open Event Project offers event managers a platform to help users organize events including concerts, summits and regular meetups. The components support organizers through all stages from event planning to publishing, marketing and ticket sales. Automated web and mobile apps help attendees to get information easily.</p>
     </blockquote>
     <h3><a href="https://gist.github.com/ritikamotwani/959c9ca7dde46da4d5178afd8985f0d9" target="_blank"><div class="underline--magical">Open Event Frontend</div></a></h3>
-    <h4><i class="fab fa-github"></i> Google - FOSSASIA</h4>
+    <h4><i class="fab fa-github" id="octocat"></i> Google - FOSSASIA</h4>
   </figcaption>
 </figure>
 <figure class="snip1533">
@@ -21,7 +21,7 @@ permalink: /projects/
       <p>The project  takes the problem of planning motion of an autonomous robot to reach a specific goal configuration in presence of static and dynamic obstacles as a machine learning problem. It compares supervised and reinforcement learning using neural networks.</p>
     </blockquote>
     <h3><a href="https://gist.github.com/ritikamotwani/3ba8cc2717bd3895bc603d12482872f3" target="_blank"><div class="underline--magical">Learning the Goal Seeking Behaviour for Mobile Robots</div></a></h3>
-    <h4><i class="fab fa-researchgate"></i> Published by IEEE</h4>
+    <h4><i class="fab fa-researchgate" id="research"></i> Published by IEEE</h4>
   </figcaption>
 </figure>
 <figure class="snip1533">
@@ -32,7 +32,7 @@ permalink: /projects/
       </p>
     </blockquote>
     <h3><a href="https://docs.google.com/presentation/d/1zFCaXERStS9yq52sLSTU-ITklgyl9kcVniGOVyVuiSo/present?token=AC4w5Vj3xWgvE5Aiy8kmmVFpQiCaauv62A%3A1552328815886&includes_info_params=1&eisi=CPG8lb3b-uACFYGSNwodTMIDvQ#slide=id.g35f391192_00" target="_blank"><div class="underline--magical">Hope Center</div></a></h3>
-    <h4><i class="fa fa-trophy icon1"></i> Best All Girls' Team at Hack In The North</h4>
+    <h4><i class="fa fa-trophy" id="trophy"></i> Best All Girls' Team at Hack In The North</h4>
   </figcaption>
 </figure>
 <figure class="snip1533">
@@ -43,7 +43,7 @@ permalink: /projects/
       </p>
     </blockquote>
     <h3><a href="https://github.com/ritikamotwani/Deception-Detection" target="_blank"><div class="underline--magical">Deception Detection Using Verbal Cues</div></a></h3>
-    <h4><i class="far fa-file-code"></i> Ongoing project at NTU, Singapore</h4>
+    <h4><i class="fab fa-researchgate" id="research"></i> Ongoing project at NTU, Singapore</h4>
   </figcaption>
 </figure>
 <figure class="snip1533">
@@ -54,7 +54,7 @@ permalink: /projects/
       </p>
     </blockquote>
     <h3><div class="underline--magical">A Verifiable Data Store and Exchange for an IoT Environment</div></h3>
-    <h4><i class="fas fa-university"></i> Semester project, IIIT Allahabad</h4>
+    <h4><i class="fas fa-university" id="wall"></i> Semester project, IIIT Allahabad</h4>
   </figcaption>
 </figure>
 <div id="tuna" class="scrolling"></div>
