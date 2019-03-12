@@ -395,6 +395,11 @@ footer {
   text-align: left;
   border-radius: 5px;
 }
+.flag {
+  &:hover {
+    border: 1px solid #ff5a77;
+  }
+}
 
 .direction-l .flag:after,
 .direction-r .flag:after {
