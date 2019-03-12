@@ -6,11 +6,11 @@ permalink: /projects/
 
 <figure class="snip1533">
   <figcaption>
-   <img src="https://camo.githubusercontent.com/6386234d12db1b6710ddaadc83cafd94b7a16299/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f6576656e747961792e636f6d2f6173736574732f6272616e64696e672f626173655f6272616e64696e672e706e67" alt="" height="125"> 
+   <img src="https://camo.githubusercontent.com/6386234d12db1b6710ddaadc83cafd94b7a16299/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f6576656e747961792e636f6d2f6173736574732f6272616e64696e672f626173655f6272616e64696e672e706e67" alt="" height="127"> 
     <blockquote>
       <p>The Open Event Project offers event managers a platform to help users organize events including concerts, summits and regular meetups. The components support organizers through all stages from event planning to publishing, marketing and ticket sales. Automated web and mobile apps help attendees to get information easily.</p>
     </blockquote>
-    <h3><a href="https://gist.github.com/ritikamotwani/959c9ca7dde46da4d5178afd8985f0d9" target="_blank" class = "effect-underline">Open Event Frontend</a></h3>
+    <h3><a href="https://gist.github.com/ritikamotwani/959c9ca7dde46da4d5178afd8985f0d9" target="_blank"><div class="underline--magical">Open Event Frontend</div></a></h3>
     <h4><i class="fab fa-github"></i> Google - FOSSASIA</h4>
   </figcaption>
 </figure>
@@ -20,7 +20,7 @@ permalink: /projects/
     <blockquote>
       <p>The project  takes the problem of planning motion of an autonomous robot to reach a specific goal configuration in presence of static and dynamic obstacles as a machine learning problem. It compares supervised and reinforcement learning using neural networks.</p>
     </blockquote>
-    <h3><a href="https://gist.github.com/ritikamotwani/3ba8cc2717bd3895bc603d12482872f3" target="_blank" class="effect-underline">Learning the Goal Seeking Behaviour for Mobile Robots</a></h3>
+    <h3><a href="https://gist.github.com/ritikamotwani/3ba8cc2717bd3895bc603d12482872f3" target="_blank"><div class="underline--magical">Learning the Goal Seeking Behaviour for Mobile Robots</div></a></h3>
     <h4><i class="far fa-bookmark"></i> Published by IEEE</h4>
   </figcaption>
 </figure>
@@ -31,7 +31,7 @@ permalink: /projects/
       <p>Hope Center is a platform that brings transparency to social funding through blockchain technology. The project solved problems like wasted money, lack of trust and lost potential.
       </p>
     </blockquote>
-    <h3><a href="https://docs.google.com/presentation/d/1zFCaXERStS9yq52sLSTU-ITklgyl9kcVniGOVyVuiSo/present?token=AC4w5Vj3xWgvE5Aiy8kmmVFpQiCaauv62A%3A1552328815886&includes_info_params=1&eisi=CPG8lb3b-uACFYGSNwodTMIDvQ#slide=id.g35f391192_00" target="_blank" class="effect-underline">Hope Center</a></h3>
+    <h3><a href="https://docs.google.com/presentation/d/1zFCaXERStS9yq52sLSTU-ITklgyl9kcVniGOVyVuiSo/present?token=AC4w5Vj3xWgvE5Aiy8kmmVFpQiCaauv62A%3A1552328815886&includes_info_params=1&eisi=CPG8lb3b-uACFYGSNwodTMIDvQ#slide=id.g35f391192_00" target="_blank"><div class="underline--magical">Hope Center</div></a></h3>
     <h4><i class="fa fa-trophy"></i> Best All Girls' Team at Hack In The North</h4>
   </figcaption>
 </figure>
@@ -42,7 +42,7 @@ permalink: /projects/
       <p>To detect the existence of deception in a human subject through analysis of different modalities – in particular: language and video.
       </p>
     </blockquote>
-    <h3><a href="https://github.com/ritikamotwani/Deception-Detection" target="_blank" class="effect-underline">Deception Detection Using Verbal Cues</a></h3>
+    <h3><a href="https://github.com/ritikamotwani/Deception-Detection" target="_blank"><div class="underline--magical">Deception Detection Using Verbal Cues</div></a></h3>
     <h4>Ongoing project at NTU, Singapore</h4>
   </figcaption>
 </figure>
@@ -53,7 +53,7 @@ permalink: /projects/
       <p>Datasets are marketable, and entities generating them can easily profit, but trust is essential for their validity. Live verification of IoT device(Raspberry Pi) readings was carried out in this project. 
       </p>
     </blockquote>
-    <h3>A Verifiable Data Store and Exchange for an IoT Environment</h3>
+    <h3><div class="underline--magical">A Verifiable Data Store and Exchange for an IoT Environment</div></h3>
     <h4>Semester project, IIIT Allahabad</h4>
   </figcaption>
 </figure>
