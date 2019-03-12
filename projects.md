@@ -32,7 +32,7 @@ permalink: /projects/
       </p>
     </blockquote>
     <h3><a href="https://docs.google.com/presentation/d/1zFCaXERStS9yq52sLSTU-ITklgyl9kcVniGOVyVuiSo/present?token=AC4w5Vj3xWgvE5Aiy8kmmVFpQiCaauv62A%3A1552328815886&includes_info_params=1&eisi=CPG8lb3b-uACFYGSNwodTMIDvQ#slide=id.g35f391192_00" target="_blank"><div class="underline--magical">Hope Center</div></a></h3>
-    <h4><i class="fa fa-trophy" class="icon-color"></i> Best All Girls' Team at Hack In The North</h4>
+    <h4><i class="fa fa-trophy icon1"></i> Best All Girls' Team at Hack In The North</h4>
   </figcaption>
 </figure>
 <figure class="snip1533">
