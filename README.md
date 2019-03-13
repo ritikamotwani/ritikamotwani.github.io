@@ -66,9 +66,7 @@ You can see the front matter at the top of /_posts/2016-03-06-Eternal-Lorem-Ipsu
 
 ```
 --- 
-layout: post
-title: The Eternal Lorem Ipsum Placeholder Text Here
-author: Author Name
+
 ---
 
 ```
