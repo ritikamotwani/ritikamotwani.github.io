@@ -95,7 +95,7 @@ console.log('hello');
 setTimeout(function(){
 document.getElementById("tuna").classList.add('scrolling');
 animationStarted=true
-}, 100);
+}, 1000);
 }
 </script>
 
