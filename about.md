@@ -6,7 +6,7 @@ permalink: /about/
 
 <p>Hi, I am <span style="color: #FE7BB0">Ritika</span>. I am a final semester student at IIIT Allahabad, pursuing Bachelor of Technology in Information Technology. I am a web developer and an 
 active Open Source contributor.</p>
-<p>I love making things pretty and pink <i class='fas fa-star' style="color: #FFDF00"></i>. In case you haven't noticed, I love cats too <i class="fas fa-paw" id="paw"></i></p>
+<p>I like making things pretty and pink <i class='fas fa-star' id="star"></i>. In case you haven't noticed, I love cats too <i class="fas fa-paw" id="paw"></i></p>
 &nbsp;
 &nbsp;
 

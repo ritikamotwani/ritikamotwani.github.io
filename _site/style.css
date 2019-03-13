@@ -1490,6 +1490,10 @@ button.button-primary:focus {
   background: linear-gradient(180deg, #FF748B 0%, #FE7BB0 80%, #FE7BB0 100%);
 }
 
+#star {
+  color: #FFDF00;
+}
+
 /* fancy Button */
 .fancy-button {
   display: inline-block;

@@ -784,7 +784,9 @@ animation: name duration timing-function delay iteration-count direction fill-mo
 .bg-gradient1:before {
   @include gradientBg(180deg, #FF748B,  #FE7BB0);
 }
-
+#star {
+  color: #FFDF00;
+}
 /* fancy Button */
 .fancy-button {
   display: inline-block;
