@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
+<p>Hi, I am Ritika. I am a final semester student at IIIT Allahabad, pursuing Bachelor of Technology in Information Technology. I am a web developer and an 
+active Open Source contributor.</p>
+<p>I love making things pretty and pink. In case you haven't noticed, I love cats too <i class="fas fa-paw" id="paw"></i></p>
+
 
 &nbsp;
 &nbsp;
