@@ -629,7 +629,7 @@ a.effect-underline:hover:after {
 #tuna {
   background: url(cat.png) 0 0 no-repeat;
   height: 60px; width: 120px;
-  position: absolute;
+  position: fixed;
   bottom: 3em;
   margin-left: -300px;
   left: 110%;
