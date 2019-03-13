@@ -86,7 +86,7 @@ var animationStarted = false;
 window.onscroll = function (e) {
 if(!animationStarted){
 document.getElementById("tuna").classList.remove('scrolling');
-setTimeout(function(){animationStarted=false},2000);
+setTimeout(function(){animationStarted=false},4000);
 
 }
 isScrolling=true;
