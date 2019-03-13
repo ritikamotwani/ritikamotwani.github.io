@@ -646,6 +646,7 @@ a.effect-underline:hover:after {
     left: 110%;
     transition: margin-left 4s linear;
     visibility: hidden;
+    display: none;
   }
 }
 
@@ -700,7 +701,7 @@ animation: name duration timing-function delay iteration-count direction fill-mo
 }
 
 #paw {
-  color: #FFC0CB;
+  color: #000000;
 }
 
 .snip1533 *,
