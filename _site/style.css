@@ -432,6 +432,30 @@ footer {
   border-radius: 5px;
 }
 
+.flag:hover {
+  border: 1px solid #ff5a77;
+}
+
+#trophy {
+  color: #DAA520;
+}
+
+#octocat {
+  color: #000000;
+}
+
+#research {
+  color: #0cb;
+}
+
+#paper {
+  color: #f0f0f0;
+}
+
+#wall {
+  color: #964B00;
+}
+
 .direction-l .flag:after,
 .direction-r .flag:after {
   content: "";
@@ -645,12 +669,12 @@ a.effect-underline:hover:after {
   position: fixed;
   bottom: 3em;
   margin-left: -300px;
-  left: 80%;
+  left: 110%;
   transition: margin-left 4s linear;
 }
 
 .scrolling {
-  animation: walk-cycle 1s steps(12) 4, sit-down 0.5s steps(5) 4s 1;
+  animation: walk-cycle 1s steps(12) 4, sit-down 0.5s steps(5) 1s 1;
   animation-fill-mode: forwards;
 }
 
@@ -673,6 +697,10 @@ animation: name duration timing-function delay iteration-count direction fill-mo
     background-position: -120px -300px;
   }
 }
+.underline--magical:hover {
+  border: 2px dashed #FFC0CB;
+}
+
 .highlight {
   background-color: #efefef;
   padding: 7px 7px 7px 10px;
@@ -1223,7 +1251,6 @@ button.button-primary:focus {
   border-radius: 50%;
   background-position: center center;
   -webkit-backface-visibility: hidden;
-
 }
 
 .ch-info .ch-info-front {
@@ -1311,6 +1338,48 @@ button.button-primary:focus {
   pointer-events: auto;
 }
 
+@media only screen and (max-width: 768px) {
+  .ch-info-wrap,
+  .ch-info {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+
+  .ch-grid li {
+    width: 221px;
+    height: 221px;
+    display: inline-block;
+  }
+
+  .ch-info-wrap {
+    top: 12px;
+    left: 10px;
+    background: #fff url(/images/bg.jpg);
+    box-shadow: 0 0 0 20px rgba(255, 255, 255, 0.2), inset 0 0 3px rgba(115, 114, 23, 0.8);
+  }
+
+  .ch-info h3 {
+    color: #000;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 10px;
+    margin: 0 15px;
+    padding: 80px 0 0 0;
+    height: 40px;
+    font-family: 'Open Sans', Arial, sans-serif;
+    text-shadow: 0 0 1px #fff, 0 1px 2px rgba(0, 0, 0, 0.3);
+  }
+
+  .ch-info p {
+    color: #fff;
+    padding: 10px 5px 0;
+    font-style: italic;
+    margin: 0 30px;
+    font-size: 12px;
+  }
+}
 .snip1533 {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
   color: #9e9e9e;
@@ -1400,4 +1469,97 @@ button.button-primary:focus {
   font-style: italic;
   font-weight: 300;
   margin: 0 0 20px;
+}
+
+/* Mixins */
+/* bg shortcodes */
+.bg-gradient1 span,
+.bg-gradient1:before {
+  background: #FF748B;
+  background: -moz-linear-gradient(180deg, #FF748B 0%, #FE7BB0 80%, #FE7BB0 100%);
+  background: -webkit-linear-gradient(180deg, #FF748B 0%, #FE7BB0 80%, #FE7BB0 100%);
+  background: linear-gradient(180deg, #FF748B 0%, #FE7BB0 80%, #FE7BB0 100%);
+}
+
+/* fancy Button */
+.fancy-button {
+  display: inline-block;
+  margin: 20px;
+  font-family: 'Heebo', Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  line-height: 24px;
+  color: #ffffff;
+  position: relative;
+}
+.fancy-button.bg-gradient1 {
+  text-shadow: 0px 0px 1px #BF4C28;
+}
+.fancy-button:before {
+  content: '';
+  display: inline-block;
+  height: 40px;
+  position: absolute;
+  bottom: -1px;
+  left: 10px;
+  right: 10px;
+  z-index: -1;
+  border-radius: 2em;
+  filter: blur(14px) brightness(0.9);
+  transform-style: preserve-3d;
+  transition: all 0.3s ease-out;
+}
+.fancy-button span {
+  display: inline-block;
+  padding: 16px 20px;
+  border-radius: 50em;
+  position: relative;
+  z-index: 2;
+  will-change: transform, filter;
+  transform-style: preserve-3d;
+  transition: all 0.3s ease-out;
+}
+.fancy-button:focus {
+  color: #ffffff;
+}
+.fancy-button:hover {
+  color: #ffffff;
+}
+.fancy-button:hover span {
+  filter: brightness(0.9) contrast(1.2);
+  transform: scale(0.96);
+}
+.fancy-button:hover:before {
+  bottom: 3px;
+  filter: blur(6px) brightness(0.8);
+}
+.fancy-button:active span {
+  filter: brightness(0.75) contrast(1.7);
+}
+.fancy-button.pop-onhover span {
+  border-radius: 4px;
+}
+.fancy-button.pop-onhover:before {
+  opacity: 0;
+  bottom: 10px;
+}
+.fancy-button.pop-onhover:hover:before {
+  bottom: -7px;
+  opacity: 1;
+  filter: blur(16px);
+}
+.fancy-button.pop-onhover:hover span {
+  transform: scale(1);
+}
+.fancy-button.pop-onhover:hover:active span {
+  filter: brightness(1) contrast(1);
+  transform: scale(1);
+  transition: all 0.2s ease-out;
+}
+.fancy-button.pop-onhover:hover:active:before {
+  bottom: 0;
+  filter: blur(5px) brightness(0.85);
+  transition: all 0.2s ease-out;
 }
