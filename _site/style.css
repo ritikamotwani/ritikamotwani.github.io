@@ -673,6 +673,11 @@ a.effect-underline:hover:after {
   transition: margin-left 4s linear;
 }
 
+@media (min-width: 992px) {
+  #tuna {
+    visibility: hidden;
+  }
+}
 .scrolling {
   animation: walk-cycle 1s steps(12) 4, sit-down 0.5s steps(5) 1s 1;
   animation-fill-mode: forwards;
