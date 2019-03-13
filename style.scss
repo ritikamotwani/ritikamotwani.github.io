@@ -636,6 +636,18 @@ a.effect-underline:hover:after {
   transition: margin-left 4s linear;
 
 }
+@media screen and (max-width: 600px) {
+  #tuna {
+    background: url(cat.png) 0 0 no-repeat;
+    height: 60px; width: 120px;
+    position: fixed;
+    bottom: 3em;
+    margin-left: -300px;
+    left: 110%;
+    transition: margin-left 4s linear;
+    visibility: hidden;
+  }
+}
 
 .scrolling {
   animation:
