@@ -65,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu d
         <span class="flag"><a href="http://fossasia.org/" target="_blank" class="effect-increase">FOSSASIA</a></span>
         <span class="time-wrapper"><span class="time">Frontend Developer</span></span>
       </div>
-      <div class="desc">Continued working on the open event project of FOSSASIA.</div>
+      <div class="desc">Developing the Open Event project of FOSSASIA, improvising the features and helping with the deployment of the web-app.</div>
     </div>
   </li>
   <li>
