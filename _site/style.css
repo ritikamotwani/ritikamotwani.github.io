@@ -1033,7 +1033,7 @@ code {
 /****************************/
 /* JEKYLL-mono-color */
 /***************************/
-/* 
+/*
     *Title
 */
 .site-name a {
@@ -1132,7 +1132,7 @@ button.button-primary:focus {
     padding: 150px 0;
   }
 }
-/* 
+/*
     *empty spaces
 */
 .space-medium {
@@ -1147,9 +1147,9 @@ button.button-primary:focus {
   padding: 30px 0 15px;
 }
 
-/* 
+/*
     *svg-icons
-    
+
 */
 .svg-icon a {
   color: #ff8da1;
@@ -1250,7 +1250,7 @@ button.button-primary:focus {
 }
 
 .ch-img-1 {
-  background-image: url(/RitikaSite/images/avatar.jpg);
+  background-image: url(/images/avatar.jpg);
   background-size: cover;
   /* <------ */
 }

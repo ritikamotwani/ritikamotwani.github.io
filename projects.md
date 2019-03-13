@@ -31,7 +31,7 @@ permalink: /projects/
       <p>Hope Center is a platform that brings transparency to social funding through blockchain technology. The project solved problems like wasted money, lack of trust and lost potential.
       </p>
     </blockquote>
-    <h3><a href="https://docs.google.com/presentation/d/1zFCaXERStS9yq52sLSTU-ITklgyl9kcVniGOVyVuiSo/present?token=AC4w5Vj3xWgvE5Aiy8kmmVFpQiCaauv62A%3A1552328815886&includes_info_params=1&eisi=CPG8lb3b-uACFYGSNwodTMIDvQ#slide=id.g35f391192_00" target="_blank"><div class="underline--magical">Hope Center</div></a></h3>
+    <h3><a href="https://ritikamotwani.github.io/pdfs/HopeCenter.pdf" target="_blank"><div class="underline--magical">Hope Center</div></a></h3>
     <h4><i class="fa fa-trophy" id="trophy"></i> Best All Girls' Team at Hack In The North</h4>
   </figcaption>
 </figure>
@@ -53,7 +53,7 @@ permalink: /projects/
       <p>Datasets are marketable, and entities generating them can easily profit, but trust is essential for their validity. Live verification of IoT device(Raspberry Pi) readings was carried out in this project. 
       </p>
     </blockquote>
-    <h3><div class="underline--magical">A Verifiable Data Store and Exchange for an IoT Environment</div></h3>
+    <h3><a href="https://ritikamotwani.github.io/pdfs/SemProjectReport.pdf" target="_blank"><div class="underline--magical">A Verifiable Data Store and Exchange for an IoT Environment</div></a></h3>
     <h4><i class="fas fa-university" id="wall"></i> Semester project, IIIT Allahabad</h4>
   </figcaption>
 </figure>
