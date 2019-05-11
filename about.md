@@ -32,8 +32,20 @@ active Open Source contributor.</p>
   </li>
 
   <!-- Item 2 -->
+    <li>
+      <div class="direction-l">
+        <div class="flag-wrapper">
+          <span class="hexa"></span>
+          <span class="flag"><a href="https://www.ntu.edu.sg/Pages/home.aspx" target="_blank" class="effect-increase">Google Summer of Code</a></span>
+          <span class="time-wrapper"><span class="time">Mentor</span></span>
+        </div>
+        <div class="desc">
+          Supervise the Open Event project as a mentor during GSoC 2019.
+        </div>
+      </div>
+    </li>
   <li>
-    <div class="direction-l">
+    <div class="direction-r">
       <div class="flag-wrapper">
         <span class="hexa"></span>
         <span class="flag"><a href="https://www.ntu.edu.sg/Pages/home.aspx" target="_blank" class="effect-increase">NTU, Singapore</a></span>
@@ -46,7 +58,7 @@ active Open Source contributor.</p>
     </div>
   </li>
   <li>
-    <div class="direction-r">
+    <div class="direction-l">
       <div class="flag-wrapper">
         <span class="hexa"></span>
         <span class="flag"><a href="https://summerofcode.withgoogle.com/" target="_blank" class="effect-increase">Google Summer of Code</a></span>
@@ -60,7 +72,7 @@ active Open Source contributor.</p>
 
   <!-- Item 3 -->
   <li>
-    <div class="direction-l">
+    <div class="direction-r">
       <div class="flag-wrapper">
         <span class="hexa"></span>
         <span class="flag"><a href="http://fossasia.org/" target="_blank" class="effect-increase">FOSSASIA</a></span>
@@ -70,7 +82,7 @@ active Open Source contributor.</p>
     </div>
   </li>
   <li>
-    <div class="direction-r">
+    <div class="direction-l">
       <div class="flag-wrapper">
         <span class="hexa"></span>
         <span class="flag"><a href="https://rcom.co.in/" target="_blank" class="effect-increase">Reliance Communication</a></span>
@@ -103,7 +115,7 @@ animationStarted=true
 
 ## Achievements
 
-
+* Got Scholarship to attend<a href="https://events.linuxfoundation.org/events/open-source-summit-europe-2019/" target="_blank"><span class="underline--magical">Open Source Summit, Europe</span></a> and <a href="https://events.linuxfoundation.org/events/open-source-summit-japan-2019/attend/about/" target="_blank"><span class="underline--magical">Open Source Summit, Japan</span></a>.
 * <a href="https://codein.withgoogle.com/" target="_blank"><span class="underline--magical">Google Code-In'18</span></a> Mentor
 * <a href="https://2017.codeheat.org/" target="_blank"><span class="underline--magical">Codeheat'17</span></a> finalist
 * <a href="http://ghcindia.anitab.org/" target="_blank"><span class="underline--magical">Grace Hopper Celebration India</span></a>, Student Scholar
