@@ -115,7 +115,7 @@ animationStarted=true
 
 ## Achievements
 
-* Got Scholarship to attend<a href="https://events.linuxfoundation.org/events/open-source-summit-europe-2019/" target="_blank"><span class="underline--magical">Open Source Summit, Europe</span></a> and <a href="https://events.linuxfoundation.org/events/open-source-summit-japan-2019/attend/about/" target="_blank"><span class="underline--magical">Open Source Summit, Japan</span></a>.
+* Got Scholarship to attend <a href="https://events.linuxfoundation.org/events/open-source-summit-europe-2019/" target="_blank"><span class="underline--magical">Open Source Summit, Europe</span></a> and <a href="https://events.linuxfoundation.org/events/open-source-summit-japan-2019/attend/about/" target="_blank"><span class="underline--magical">Open Source Summit, Japan</span></a>.
 * <a href="https://codein.withgoogle.com/" target="_blank"><span class="underline--magical">Google Code-In'18</span></a> Mentor
 * <a href="https://2017.codeheat.org/" target="_blank"><span class="underline--magical">Codeheat'17</span></a> finalist
 * <a href="http://ghcindia.anitab.org/" target="_blank"><span class="underline--magical">Grace Hopper Celebration India</span></a>, Student Scholar
