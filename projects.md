@@ -67,8 +67,6 @@ setTimeout(function(){animationStarted=false},1000);
 
 }
 isScrolling=true;
-
-console.log('hello');
 setTimeout(function(){
 document.getElementById("tuna").classList.add('scrolling');
 animationStarted=true
