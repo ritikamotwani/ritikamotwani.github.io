@@ -37,7 +37,7 @@ active Open Source contributor.</p>
       </div>
       <div class="desc">
         Bachelors of Technology in Information Technology.<br/>
-        CGPA (After 7 semesters): 8.81/10<br/>
+        CGPA: 8.81/10<br/>
       </div>
     </div>
   </li>
