@@ -17,7 +17,19 @@ active Open Source contributor.</p>
 <ul class="timeline">
   <!-- Item 1 -->
   <li>
-    <div class="direction-r">
+      <div class="direction-r">
+        <div class="flag-wrapper">
+          <span class="hexa"></span>
+          <span class="flag"><a href="https://glints.com" target="_blank" class="effect-increase">Glints, Singapore</a></span>
+          <span class="time-wrapper"><span class="time">Software Developer</span></span>
+        </div>
+        <div class="desc">
+            Working as a Software Developer in the Career Discovery and Development team.
+        </div>
+      </div>
+    </li>
+  <li>
+    <div class="direction-l">
       <div class="flag-wrapper">
         <span class="hexa"></span>
         <span class="flag"><a href="https://iiita.ac.in" target="_blank" class="effect-increase">IIIT Allahabad, India</a></span>
@@ -25,15 +37,14 @@ active Open Source contributor.</p>
       </div>
       <div class="desc">
         Bachelors of Technology in Information Technology.<br/>
-        CGPA (After 7 semesters): 8.73/10<br/>
-        Will graduate in July 2019
+        CGPA (After 7 semesters): 8.81/10<br/>
       </div>
     </div>
   </li>
 
   <!-- Item 2 -->
     <li>
-      <div class="direction-l">
+      <div class="direction-r">
         <div class="flag-wrapper">
           <span class="hexa"></span>
           <span class="flag"><a href="https://www.ntu.edu.sg/Pages/home.aspx" target="_blank" class="effect-increase">Google Summer of Code</a></span>
@@ -45,7 +56,7 @@ active Open Source contributor.</p>
       </div>
     </li>
   <li>
-    <div class="direction-r">
+    <div class="direction-l">
       <div class="flag-wrapper">
         <span class="hexa"></span>
         <span class="flag"><a href="https://www.ntu.edu.sg/Pages/home.aspx" target="_blank" class="effect-increase">NTU, Singapore</a></span>
@@ -58,7 +69,7 @@ active Open Source contributor.</p>
     </div>
   </li>
   <li>
-    <div class="direction-l">
+    <div class="direction-r">
       <div class="flag-wrapper">
         <span class="hexa"></span>
         <span class="flag"><a href="https://summerofcode.withgoogle.com/" target="_blank" class="effect-increase">Google Summer of Code</a></span>
@@ -72,7 +83,7 @@ active Open Source contributor.</p>
 
   <!-- Item 3 -->
   <li>
-    <div class="direction-r">
+    <div class="direction-l">
       <div class="flag-wrapper">
         <span class="hexa"></span>
         <span class="flag"><a href="http://fossasia.org/" target="_blank" class="effect-increase">FOSSASIA</a></span>
@@ -82,7 +93,7 @@ active Open Source contributor.</p>
     </div>
   </li>
   <li>
-    <div class="direction-l">
+    <div class="direction-r">
       <div class="flag-wrapper">
         <span class="hexa"></span>
         <span class="flag"><a href="https://rcom.co.in/" target="_blank" class="effect-increase">Reliance Communication</a></span>
