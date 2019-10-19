@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p>Hi, I am <span style="color: #FE7BB0">Ritika</span>. I am a final semester student at IIIT Allahabad, pursuing Bachelor of Technology in Information Technology. I am a web developer and an 
+<p>Hi, I am <span style="color: #FE7BB0">Ritika</span>. I am currently working as a Software Developer at Glints, Singapore. I am a web developer and an 
 active Open Source contributor.</p>
 <p>I like making things pretty and pink <i class='fas fa-star' id="star"></i>. In case you haven't noticed, I love cats too <i class="fab fa-github-square" id="paw"></i></p>
 &nbsp;
