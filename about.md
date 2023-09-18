@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<p>Hi, I am <span style="color: #FE7BB0">Ritika</span>. I am currently a CS Grad Student at NYU-Courant. I am a software engineer working on distributed systems, infrastructure, cloud computing and am an active Open Source contributor. I will graduate in May 2024 and am looking for full time opportunities from May 2024. I am also available to work part time or as an intern from January to May 2024.</p>
-<p>I like making things pretty and pink <i class='fas fa-star' id="star"></i>. In case you haven't noticed, I love cats too <i class="fab fa-github-square" id="paw"></i></p>
+<p>Hi, I am <span style="color: #FE7BB0">Ritika</span>. I am a former Software Engineer with 3 years of work experience building large scale complex web applications. Currently I am pursuing a masters degree at NYU Courant in Computer Science with a course work balanced between Distributed Systems, Cloud Computing and Machine Learning. I am working as a Research Software Engineer with Prof Denis Pelli at NYU studying how to uncover early dyslexia predictors. Over the summers of 2023 I worked as a Research Engineer at Princeton University.
+</p>
+<p> I am looking for internship/co-op positions for my spring semester from January 2024 and full time positions from May 2024. </p>
+<p>I also love building frontend applications and the UI and making things pretty and pink <i class='fas fa-star' id="star"></i>. In case you haven't noticed, I love cats too <i class="fab fa-github-square" id="paw"></i></p>
 &nbsp;
 &nbsp;
 
@@ -27,26 +29,26 @@ permalink: /about/
         </div>
       </div>
     </li>
-  <li>
+  
   <li>
       <div class="direction-l">
         <div class="flag-wrapper">
           <span class="hexa"></span>
           <span class="flag"><a href="https://www.nyu.edu/" target="_blank" class="effect-increase">NYU - Courant</a></span>
-          <span class="time-wrapper"><span class="time">Masters in Computer Science</span></span>
+          <span class="time-wrapper"><span class="time">MS Computer Science</span></span>
         </div>
         <div class="desc">
            Courses: Algorithms, Cloud Computing, Operating Systems, Multicore Processors, Big data Application Development, CV
         </div>
       </div>
     </li>
-  <li>
+  
   <li>
       <div class="direction-r">
         <div class="flag-wrapper">
           <span class="hexa"></span>
           <span class="flag"><a href="https://glints.com" target="_blank" class="effect-increase">Glints, Singapore</a></span>
-          <span class="time-wrapper"><span class="time">Software Developer</span></span>
+          <span class="time-wrapper"><span class="time">Software Engineer</span></span>
         </div>
         <div class="desc">
           Built a platform for recruiters to search, filter, source candidates from the 5 million+ talents database and manage them in different recruitment pipelines and automate certain steps like scheduling interviews. Worked on candidate recommendation algorithms for different jobs. It Helped recruiters make 2+ matches a month. Led the implementation of migrating our product to a different access control middleware/permissions model and released it without any downtime or data loss for 13k+ users. Investigated and resolved production OOMs and latency issues in NodeJS, Redis, Postgres services through query optimizations.
@@ -116,7 +118,7 @@ animationStarted=true
 
 ## Achievements
 
-* Got Scholarship to attend <a href="https://events.linuxfoundation.org/events/open-source-summit-europe-2019/" target="_blank"><span class="underline--magical">Open Source Summit, Europe</span></a> and <a href="https://events.linuxfoundation.org/events/open-source-summit-japan-2019/attend/about/" target="_blank"><span class="underline--magical">Open Source Summit, Japan</span></a>.
+* Got Scholarship to attend <a href="https://events.linuxfoundation.org/events/open-source-summit-europe-2019/" target="_blank"><span class="underline--magical">GraphQL Conf'23, vGHC'23, Open Source Summit, Europe</span></a> and <a href="https://events.linuxfoundation.org/events/open-source-summit-japan-2019/attend/about/" target="_blank"><span class="underline--magical">Open Source Summit, Japan</span></a>.
 * <a href="https://codein.withgoogle.com/" target="_blank"><span class="underline--magical">Google Code-In'18</span></a> Mentor
 * <a href="https://2017.codeheat.org/" target="_blank"><span class="underline--magical">Codeheat'17</span></a> finalist
 * <a href="http://ghcindia.anitab.org/" target="_blank"><span class="underline--magical">Grace Hopper Celebration India</span></a>, Student Scholar
