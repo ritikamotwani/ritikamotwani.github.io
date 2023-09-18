@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p>Hi, I am <span style="color: #FE7BB0">Ritika</span>. I am currently working as a Software Developer at Glints, Singapore. I am a web developer and an 
-active Open Source contributor.</p>
+<p>Hi, I am <span style="color: #FE7BB0">Ritika</span>. I am currently a CS Grad Student at NYU-Courant. I am a software engineer working on distributed systems, infrastructure, cloud computing and am an active Open Source contributor. I will graduate in May 2024 and am looking for full time opportunities from May 2024. I am also available to work part time or as an intern from January to May 2024.</p>
 <p>I like making things pretty and pink <i class='fas fa-star' id="star"></i>. In case you haven't noticed, I love cats too <i class="fab fa-github-square" id="paw"></i></p>
 &nbsp;
 &nbsp;
@@ -20,11 +19,37 @@ active Open Source contributor.</p>
       <div class="direction-r">
         <div class="flag-wrapper">
           <span class="hexa"></span>
+          <span class="flag"><a href="https://researchcomputing.princeton.edu/" target="_blank" class="effect-increase">Princeton University</a></span>
+          <span class="time-wrapper"><span class="time">Research Software Engineer</span></span>
+        </div>
+        <div class="desc">
+            Developed a secure software solution enabling the categorization of videos through computer vision algos and created a user friendly database with filters of over 100k videos based on activities helping researchers conduct data analysis. Led the implementation of video transcription and diarization using OpenAI Whisper and pyannote, enhancing content accessibility on the platform. (June 2023 - August 2023)
+        </div>
+      </div>
+    </li>
+  <li>
+  <li>
+      <div class="direction-l">
+        <div class="flag-wrapper">
+          <span class="hexa"></span>
+          <span class="flag"><a href="https://www.nyu.edu/" target="_blank" class="effect-increase">New York University - Courant</a></span>
+          <span class="time-wrapper"><span class="time">Masters in Computer Science</span></span>
+        </div>
+        <div class="desc">
+           Courses: Algorithms, Cloud Computing, Operating Systems, Multicore Processors, Big data Application Development, CV
+        </div>
+      </div>
+    </li>
+  <li>
+  <li>
+      <div class="direction-r">
+        <div class="flag-wrapper">
+          <span class="hexa"></span>
           <span class="flag"><a href="https://glints.com" target="_blank" class="effect-increase">Glints, Singapore</a></span>
           <span class="time-wrapper"><span class="time">Software Developer</span></span>
         </div>
         <div class="desc">
-            Working as a Software Developer in the Career Discovery and Development team.
+          Built a platform for recruiters to search, filter, source candidates from the 5 million+ talents database and manage them in different recruitment pipelines and automate certain steps like scheduling interviews. Worked on candidate recommendation algorithms for different jobs. It Helped recruiters make 2+ matches a month. Led the implementation of migrating our product to a different access control middleware/permissions model and released it without any downtime or data loss for 13k+ users. Investigated and resolved production OOMs and latency issues in NodeJS, Redis, Postgres services through query optimizations.
         </div>
       </div>
     </li>
@@ -43,18 +68,6 @@ active Open Source contributor.</p>
   </li>
 
   <!-- Item 2 -->
-    <li>
-      <div class="direction-r">
-        <div class="flag-wrapper">
-          <span class="hexa"></span>
-          <span class="flag"><a href="https://www.ntu.edu.sg/Pages/home.aspx" target="_blank" class="effect-increase">Google Summer of Code</a></span>
-          <span class="time-wrapper"><span class="time">Mentor</span></span>
-        </div>
-        <div class="desc">
-          Supervise the Open Event project as a mentor during GSoC 2019.
-        </div>
-      </div>
-    </li>
   <li>
     <div class="direction-l">
       <div class="flag-wrapper">
@@ -77,27 +90,6 @@ active Open Source contributor.</p>
       </div>
       <div class="desc">Worked on the front-end part of the project Open Event of FOSSASIA. The Open Event Project offers event managers a platform to help users organize events including concerts, summits and regular meetups. The components support organizers through all stages from event planning to publishing, marketing and ticket sales. Automated web and mobile apps help attendees to get information easily.<br />
         Stack Used: EmberJS, Semantic UI
-      </div>
-    </div>
-  </li>
-
-  <!-- Item 3 -->
-  <li>
-    <div class="direction-l">
-      <div class="flag-wrapper">
-        <span class="hexa"></span>
-        <span class="flag"><a href="http://fossasia.org/" target="_blank" class="effect-increase">FOSSASIA</a></span>
-        <span class="time-wrapper"><span class="time">Frontend Developer</span></span>
-      </div>
-      <div class="desc">Developing the Open Event project of FOSSASIA, improvising the features and helping with the deployment of the web-app.</div>
-    </div>
-  </li>
-  <li>
-    <div class="direction-r">
-      <div class="flag-wrapper">
-        <span class="hexa"></span>
-        <span class="flag"><a href="https://rcom.co.in/" target="_blank" class="effect-increase">Reliance Communication</a></span>
-        <span class="time-wrapper"><span class="time">Tech Intern</span></span>
       </div>
     </div>
   </li>
